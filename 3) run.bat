@@ -1,3 +1,3 @@
 @echo off
-"E:\Program Files\Conda\envs\realRun3.11\python.exe" main.py
+"C:\ProgramData\miniconda3\envs\realrun\python.exe" main.py
 pause
