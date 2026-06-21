@@ -1,0 +1,13 @@
+{
+    "host": "fd65:594f:43db::1",
+    "port": 56768,
+    "lat": 30.307744,
+    "lng": 120.089894,
+    "radius": 30,
+    "dt": 1.0,
+    "coord_type": "gcj02",
+    "spring_k": 0.0005,
+    "damping": 0.80,
+    "noise_scale": 2,
+    "max_speed": 5
+}
